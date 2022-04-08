@@ -41,6 +41,6 @@
   </object>
  </resources>
  <build>
-  <item objectid="1" transform="1 0 0 0 1 0 0 0 1 125 105 12.5" printable="1"/>
+  <item objectid="1" transform="1 0 0 0 1 0 0 0 2 125 105 25" printable="1"/>
  </build>
 </model>
